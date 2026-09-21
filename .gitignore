@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+loan_app.db
+artifacts/*.joblib
+# keep metrics JSON for reference if present; regenerate on train
+.DS_Store
+node_modules/
+dist/
+.vscode/
+*.log

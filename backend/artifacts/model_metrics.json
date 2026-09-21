@@ -1,0 +1,70 @@
+{
+  "accuracy": 0.8130081300813008,
+  "precision": 0.8113207547169812,
+  "recall": 0.7678571428571429,
+  "f1_score": 0.7889908256880734,
+  "confusion_matrix": [
+    [
+      57,
+      10
+    ],
+    [
+      13,
+      43
+    ]
+  ],
+  "feature_importance": [
+    {
+      "feature": "Loan_To_Income_Ratio",
+      "importance": 0.18115021410239285
+    },
+    {
+      "feature": "Total_Income",
+      "importance": 0.1540535254993179
+    },
+    {
+      "feature": "Guarantor_Availability_Yes",
+      "importance": 0.11279735229271355
+    },
+    {
+      "feature": "Guardian_Monthly_Income",
+      "importance": 0.10844141420826188
+    },
+    {
+      "feature": "CGPA",
+      "importance": 0.09327233711635657
+    },
+    {
+      "feature": "Loan_Amount_Requested",
+      "importance": 0.08250473091502782
+    },
+    {
+      "feature": "Age",
+      "importance": 0.04180815639985147
+    },
+    {
+      "feature": "Other_Income",
+      "importance": 0.03406616679900642
+    },
+    {
+      "feature": "Loan_Term_Months",
+      "importance": 0.0313051755151274
+    },
+    {
+      "feature": "Guardian_Employment_Status_Self-Employed",
+      "importance": 0.018406169684436785
+    },
+    {
+      "feature": "Faculty_Social Sciences",
+      "importance": 0.01322004444537231
+    },
+    {
+      "feature": "Guardian_Employment_Status_Unemployed",
+      "importance": 0.012683422500347201
+    }
+  ],
+  "train_size": 491,
+  "test_size": 123,
+  "n_estimators": 300,
+  "disclaimer": "This prediction is not an official NELFUND or University of Ibadan loan decision."
+}

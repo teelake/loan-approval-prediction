@@ -1,0 +1,42 @@
+{
+  "Gender": [
+    "Female",
+    "Male"
+  ],
+  "Marital_Status": [
+    "Married",
+    "Single"
+  ],
+  "Faculty": [
+    "Agriculture and Forestry",
+    "Arts",
+    "Clinical Sciences",
+    "Education",
+    "Law",
+    "Pharmacy",
+    "Science",
+    "Social Sciences",
+    "Technology",
+    "Veterinary Medicine"
+  ],
+  "Academic_Level": [
+    "100",
+    "200",
+    "300",
+    "400",
+    "500"
+  ],
+  "Residence_Type": [
+    "Off Campus",
+    "School Hostel"
+  ],
+  "Guardian_Employment_Status": [
+    "Employed",
+    "Self-Employed",
+    "Unemployed"
+  ],
+  "Guarantor_Availability": [
+    "No",
+    "Yes"
+  ]
+}

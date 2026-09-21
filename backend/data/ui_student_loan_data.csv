@@ -1,0 +1,615 @@
+Student_ID,Gender,Age,Marital_Status,Faculty,Academic_Level,Residence_Type,CGPA,Guardian_Employment_Status,Guardian_Monthly_Income,Other_Income,Loan_Amount_Requested,Loan_Term_Months,Guarantor_Availability,Loan_Status
+UI/2019/1000,Male,17,Single,Agriculture and Forestry,500,Off Campus,3.08,Self-Employed,71000,0,261678.0,36.0,Yes,Rejected
+UI/2020/1001,Female,19,Single,Pharmacy,300,Off Campus,4.05,Employed,53000,24500,158027.0,48.0,No,Rejected
+UI/2021/1002,Male,21,Single,Education,200,Off Campus,2.16,Self-Employed,247000,28000,141413.0,24.0,Yes,Rejected
+UI/2022/1003,Male,24,Single,Science,100,Off Campus,3.36,Employed,61000,11500,116961.0,36.0,,Approved
+UI/2023/1004,Female,24,Married,Social Sciences,400,School Hostel,2.64,Self-Employed,69000,0,231857.0,24.0,No,Rejected
+UI/2024/1005,Female,21,Married,Pharmacy,200,Off Campus,3.31,Employed,38000,38500,146878.0,24.0,Yes,Approved
+UI/2019/1006,Male,21,Single,Arts,300,School Hostel,4.02,Employed,45000,16500,172009.0,48.0,Yes,Approved
+UI/2020/1007,Male,20,Married,Law,100,Off Campus,3.2,Employed,98000,0,85352.0,60.0,Yes,Approved
+UI/2021/1008,Female,22,Single,Education,300,Off Campus,3.63,Self-Employed,103000,19500,178436.0,36.0,Yes,Approved
+UI/2022/1009,Male,21,Single,Technology,200,Off Campus,3.09,Employed,69000,4500,119956.0,24.0,Yes,Approved
+UI/2023/1010,Female,23,Single,Social Sciences,400,Off Campus,4.62,Self-Employed,51000,0,201504.0,24.0,No,Approved
+UI/2024/1011,Male,26,Single,Social Sciences,300,School Hostel,4.05,Employed,100000,0,193827.0,48.0,No,Approved
+UI/2019/1012,Female,21,Single,Science,400,Off Campus,4.17,Self-Employed,29000,0,206205.0,36.0,Yes,Rejected
+UI/2020/1013,Male,18,Single,Technology,200,Off Campus,,Unemployed,19000,0,166504.0,24.0,Yes,Rejected
+UI/2021/1014,Male,20,Single,Technology,100,School Hostel,2.94,Employed,60000,0,78606.0,48.0,Yes,Approved
+UI/2022/1015,Male,18,Single,Clinical Sciences,400,School Hostel,4.14,Employed,43000,0,226218.0,36.0,Yes,Rejected
+UI/2023/1016,Female,19,Single,Veterinary Medicine,500,School Hostel,3.44,Self-Employed,82000,15000,242427.0,36.0,Yes,Approved
+UI/2024/1017,Female,25,Single,Education,300,Off Campus,3.41,Self-Employed,52000,16500,182422.0,48.0,Yes,Rejected
+UI/2019/1018,Male,22,Single,Agriculture and Forestry,500,School Hostel,3.73,Self-Employed,48000,0,244379.0,48.0,Yes,Rejected
+UI/2020/1019,Male,18,Single,Veterinary Medicine,400,School Hostel,2.86,Employed,185000,0,220435.0,12.0,Yes,Rejected
+UI/2021/1020,Female,23,Single,Science,300,School Hostel,3.98,Self-Employed,113000,0,177509.0,60.0,,Approved
+UI/2022/1021,Female,24,Single,Science,200,Off Campus,3.56,Employed,133000,18500,133122.0,36.0,Yes,Approved
+UI/2023/1022,Male,21,Single,Agriculture and Forestry,200,School Hostel,3.81,Employed,71000,0,147433.0,24.0,Yes,Approved
+UI/2024/1023,Female,20,Single,Arts,300,Off Campus,3.18,Self-Employed,128000,0,202246.0,48.0,Yes,Approved
+UI/2019/1024,Male,21,Single,Arts,100,Off Campus,3.83,Employed,106000,46000,91045.0,36.0,Yes,Approved
+UI/2020/1025,Female,22,Single,Clinical Sciences,200,Off Campus,3.16,Employed,134000,0,152968.0,36.0,No,Rejected
+UI/2021/1026,Male,23,Single,Technology,300,Off Campus,4.07,Employed,254000,14000,181085.0,48.0,Yes,Approved
+UI/2022/1027,Female,24,Single,Pharmacy,100,Off Campus,4.17,Employed,61000,0,99381.0,24.0,Yes,Approved
+UI/2023/1028,Female,24,Single,Agriculture and Forestry,200,Off Campus,4.05,Employed,80000,0,172407.0,60.0,Yes,Approved
+UI/2024/1029,Female,24,Single,Clinical Sciences,200,School Hostel,,Self-Employed,74000,0,107580.0,36.0,No,Rejected
+UI/2019/1030,Male,25,Single,Technology,300,School Hostel,3.9,Employed,15000,20000,169713.0,12.0,Yes,Rejected
+UI/2020/1031,Female,23,Single,Science,400,Off Campus,2.06,Unemployed,15000,28500,192929.0,36.0,,Rejected
+UI/2021/1032,Female,18,Single,Arts,300,School Hostel,4.01,Unemployed,23000,11500,175170.0,12.0,Yes,Rejected
+UI/2022/1033,Male,21,Single,Science,300,School Hostel,3.4,Unemployed,33000,4000,176423.0,60.0,No,Rejected
+UI/2023/1034,Male,22,Single,Agriculture and Forestry,300,Off Campus,3.6,Self-Employed,55000,0,236448.0,36.0,Yes,Rejected
+UI/2024/1035,Female,21,Single,Science,200,School Hostel,3.39,Employed,129000,0,144973.0,24.0,No,Rejected
+UI/2019/1036,Female,24,Single,Social Sciences,200,School Hostel,2.78,Employed,140000,24500,166503.0,48.0,Yes,Approved
+UI/2020/1037,Male,21,Single,Arts,400,Off Campus,3.25,Employed,55000,8500,239119.0,48.0,No,Rejected
+UI/2021/1038,Female,19,Single,Law,500,Off Campus,3.91,Employed,152000,0,253282.0,36.0,Yes,Approved
+UI/2022/1039,Male,25,Single,Science,100,School Hostel,4.33,Employed,182000,0,106946.0,24.0,Yes,Approved
+UI/2023/1040,Male,23,Single,Science,100,School Hostel,3.21,Unemployed,30000,9000,124627.0,12.0,Yes,Rejected
+UI/2024/1041,Female,22,Single,Pharmacy,500,Off Campus,3.05,Unemployed,15000,0,262400.0,48.0,Yes,Approved
+UI/2019/1042,Male,24,Single,Technology,400,School Hostel,4.35,Self-Employed,170000,7500,222930.0,48.0,Yes,Approved
+UI/2020/1043,Male,24,Single,Law,300,Off Campus,3.06,Employed,63000,20500,187297.0,24.0,Yes,Rejected
+UI/2021/1044,Male,22,Married,Agriculture and Forestry,400,Off Campus,4.69,Self-Employed,62000,44500,197471.0,24.0,,Approved
+UI/2022/1045,Male,16,Single,Education,300,Off Campus,3.58,Self-Employed,81000,0,167754.0,36.0,Yes,Approved
+UI/2023/1046,Male,20,Single,Arts,500,Off Campus,3.06,Employed,52000,0,264826.0,24.0,Yes,Rejected
+UI/2024/1047,Male,20,Single,Clinical Sciences,200,School Hostel,,Employed,125000,0,147931.0,60.0,Yes,Approved
+UI/2019/1048,Male,19,Single,Technology,200,School Hostel,4.48,Employed,106000,19500,126169.0,36.0,Yes,Approved
+UI/2020/1049,Male,22,Single,Pharmacy,300,Off Campus,2.76,Employed,136000,0,175015.0,36.0,Yes,Approved
+UI/2021/1050,Male,24,Single,Social Sciences,100,Off Campus,4.41,Self-Employed,105000,0,97993.0,36.0,Yes,Approved
+UI/2022/1051,Male,20,Single,Clinical Sciences,400,School Hostel,3.4,Employed,45000,0,217566.0,12.0,No,Rejected
+UI/2023/1052,Female,19,Single,Arts,200,Off Campus,4.37,Employed,64000,0,150120.0,12.0,Yes,Rejected
+UI/2024/1053,Female,26,Single,Social Sciences,400,Off Campus,3.34,,112000,4000,221394.0,24.0,No,Rejected
+UI/2019/1054,Male,20,,Social Sciences,400,Off Campus,2.68,Unemployed,19000,5500,222276.0,36.0,Yes,Rejected
+UI/2020/1055,Female,19,Single,Science,200,School Hostel,3.83,,346000,0,118777.0,36.0,Yes,Approved
+UI/2021/1056,Male,22,Single,Law,500,School Hostel,4.06,Self-Employed,67000,30500,244146.0,60.0,No,Rejected
+UI/2022/1057,Male,22,Single,Social Sciences,300,School Hostel,4.7,Employed,50000,0,184584.0,48.0,No,Rejected
+UI/2023/1058,Male,20,Single,Veterinary Medicine,400,School Hostel,4.5,Self-Employed,143000,0,196096.0,48.0,No,Approved
+UI/2024/1059,Female,23,Single,Clinical Sciences,100,School Hostel,3.93,Self-Employed,115000,0,103804.0,24.0,Yes,Approved
+UI/2019/1060,Male,20,Single,Clinical Sciences,100,Off Campus,3.42,Self-Employed,75000,0,89964.0,24.0,No,Rejected
+UI/2020/1061,Female,19,Single,Agriculture and Forestry,400,Off Campus,3.26,Self-Employed,67000,0,207712.0,36.0,Yes,Rejected
+UI/2021/1062,Male,22,Single,Agriculture and Forestry,500,School Hostel,3.39,Employed,88000,0,269416.0,24.0,No,Rejected
+UI/2022/1063,Female,23,Single,Science,300,Off Campus,3.09,,110000,34000,169716.0,48.0,No,Rejected
+UI/2023/1064,Female,20,Single,Technology,500,School Hostel,3.4,Employed,106000,0,247012.0,48.0,No,Rejected
+UI/2024/1065,Female,22,Single,Science,100,Off Campus,2.15,Employed,59000,50500,89726.0,24.0,Yes,Approved
+UI/2019/1066,Male,21,Single,Technology,500,Off Campus,3.65,Employed,88000,0,260622.0,48.0,Yes,Rejected
+UI/2020/1067,Male,28,Single,Arts,400,Off Campus,3.53,Self-Employed,121000,9000,260640.0,12.0,Yes,Approved
+UI/2021/1068,Male,20,Single,Veterinary Medicine,300,Off Campus,4.96,Employed,106000,24500,148225.0,24.0,Yes,Approved
+UI/2022/1069,Female,25,Single,Science,200,Off Campus,3.97,Employed,15000,0,139458.0,60.0,Yes,Rejected
+UI/2023/1070,Male,21,Single,Agriculture and Forestry,400,School Hostel,3.29,Self-Employed,47000,0,216148.0,36.0,,Rejected
+UI/2024/1071,Male,21,,Social Sciences,200,School Hostel,3.86,Self-Employed,50000,0,153905.0,48.0,Yes,Approved
+UI/2019/1072,Female,23,Single,Pharmacy,300,Off Campus,2.88,Unemployed,20000,0,174218.0,60.0,No,Rejected
+UI/2020/1073,Male,24,Single,Agriculture and Forestry,400,School Hostel,3.22,Employed,77000,0,182945.0,24.0,Yes,Approved
+UI/2021/1074,Male,24,Single,Science,300,School Hostel,2.52,Employed,115000,27000,199453.0,48.0,Yes,Approved
+UI/2022/1075,Female,22,Single,Law,200,Off Campus,4.34,Self-Employed,107000,8500,123477.0,24.0,Yes,Approved
+UI/2023/1076,Male,20,Single,Veterinary Medicine,100,School Hostel,3.88,Employed,65000,0,98809.0,12.0,Yes,Approved
+UI/2024/1077,Male,20,Single,Pharmacy,100,School Hostel,2.9,Self-Employed,77000,0,79324.0,24.0,Yes,Rejected
+UI/2019/1078,Male,23,Single,Clinical Sciences,400,Off Campus,3.52,Employed,183000,60000,203383.0,,Yes,Approved
+UI/2020/1079,Male,23,Single,Science,100,School Hostel,4.07,Employed,50000,0,92291.0,36.0,,Rejected
+UI/2021/1080,Male,25,Single,Science,100,School Hostel,3.82,Self-Employed,90000,7000,112450.0,36.0,No,Rejected
+UI/2022/1081,Female,22,Single,Pharmacy,200,Off Campus,3.76,Self-Employed,180000,0,152229.0,48.0,Yes,Approved
+UI/2023/1082,Female,24,Single,Clinical Sciences,300,School Hostel,3.08,Self-Employed,92000,8000,170761.0,24.0,,Approved
+UI/2024/1083,Female,25,Single,Science,300,School Hostel,3.2,Self-Employed,25000,0,187140.0,48.0,Yes,Rejected
+UI/2019/1084,,22,Single,Pharmacy,400,Off Campus,3.6,Self-Employed,94000,0,214108.0,24.0,Yes,Approved
+UI/2020/1085,Male,18,Single,Agriculture and Forestry,400,School Hostel,4.06,Employed,56000,0,221321.0,24.0,No,Rejected
+UI/2021/1086,Female,19,Single,Clinical Sciences,500,Off Campus,3.09,Employed,65000,0,261950.0,36.0,Yes,Rejected
+UI/2022/1087,Female,18,Single,Social Sciences,500,Off Campus,2.93,Employed,124000,0,268879.0,24.0,Yes,Approved
+UI/2023/1088,Female,25,Single,Technology,200,Off Campus,4.18,Self-Employed,99000,19500,130467.0,60.0,,Approved
+UI/2024/1089,Female,20,Single,Science,100,School Hostel,3.04,Employed,60000,14000,97661.0,24.0,Yes,Approved
+UI/2019/1090,Female,24,Single,Arts,500,School Hostel,4.14,Employed,113000,0,262870.0,24.0,Yes,Approved
+UI/2020/1091,Male,23,Single,Pharmacy,100,Off Campus,3.68,Employed,88000,27000,100964.0,48.0,Yes,Approved
+UI/2021/1092,Female,25,Single,Technology,300,Off Campus,4.03,Employed,74000,27000,167735.0,48.0,Yes,Approved
+UI/2022/1093,Male,24,Single,Clinical Sciences,200,School Hostel,4.51,Employed,82000,10500,165268.0,24.0,Yes,Approved
+UI/2023/1094,Male,21,Single,Social Sciences,400,School Hostel,3.93,Unemployed,27000,0,212736.0,24.0,No,Rejected
+UI/2024/1095,Female,21,Single,Education,100,School Hostel,3.98,Unemployed,19000,0,110888.0,36.0,No,Rejected
+UI/2019/1096,Female,22,Single,Arts,200,School Hostel,3.05,Employed,54000,19000,142635.0,12.0,Yes,Approved
+UI/2020/1097,Male,22,Single,Social Sciences,100,Off Campus,3.17,Employed,70000,0,117798.0,24.0,No,Rejected
+UI/2021/1098,Female,20,Single,Arts,400,Off Campus,3.9,Employed,41000,0,187043.0,48.0,Yes,Rejected
+UI/2022/1099,Female,21,Single,Arts,300,Off Campus,4.39,Employed,35000,0,210153.0,48.0,Yes,Approved
+UI/2023/1100,Male,25,Single,Veterinary Medicine,300,School Hostel,4.32,Employed,142000,0,,24.0,No,Rejected
+UI/2024/1101,Male,18,Single,Agriculture and Forestry,200,School Hostel,,Employed,61000,0,121226.0,24.0,No,Approved
+UI/2019/1102,Male,22,Single,Technology,100,School Hostel,3.72,Employed,69000,0,101502.0,24.0,Yes,Rejected
+UI/2020/1103,Female,19,Single,Clinical Sciences,400,School Hostel,3.66,Employed,65000,0,253216.0,36.0,Yes,Rejected
+UI/2021/1104,Female,22,Single,Pharmacy,400,School Hostel,4.1,Self-Employed,77000,0,227110.0,24.0,Yes,Approved
+UI/2022/1105,Female,23,Single,Social Sciences,400,Off Campus,3.56,Employed,70000,0,201217.0,60.0,No,Rejected
+UI/2023/1106,Male,21,Single,Clinical Sciences,500,School Hostel,3.52,Unemployed,24000,0,252669.0,24.0,Yes,Rejected
+UI/2024/1107,Female,23,Single,Agriculture and Forestry,300,School Hostel,2.97,Self-Employed,49000,0,199468.0,36.0,No,Rejected
+UI/2019/1108,Female,18,Single,Social Sciences,100,Off Campus,4.1,Employed,116000,0,78640.0,36.0,,Approved
+UI/2020/1109,Male,24,Single,Clinical Sciences,300,Off Campus,2.96,Self-Employed,52000,0,176873.0,60.0,Yes,Rejected
+UI/2021/1110,Male,20,Single,Education,200,Off Campus,3.83,Unemployed,41000,0,135170.0,36.0,Yes,Rejected
+UI/2022/1111,Male,23,Single,Pharmacy,300,Off Campus,2.77,Employed,24000,7000,211854.0,48.0,No,Rejected
+UI/2023/1112,Female,22,Single,Science,200,School Hostel,4.15,Self-Employed,42000,16000,135205.0,36.0,,Approved
+UI/2024/1113,Female,16,Single,Veterinary Medicine,300,School Hostel,2.98,Employed,120000,0,199132.0,24.0,Yes,Rejected
+UI/2019/1114,Male,20,Single,Arts,500,School Hostel,4.01,Employed,64000,0,249453.0,36.0,,Approved
+UI/2020/1115,Male,22,Single,Education,400,Off Campus,2.68,Employed,48000,0,207575.0,,Yes,Rejected
+UI/2021/1116,Male,25,Single,Law,200,Off Campus,3.31,Employed,85000,0,154515.0,36.0,Yes,Approved
+UI/2022/1117,Male,22,Married,Science,400,Off Campus,4.2,Self-Employed,43000,0,228827.0,48.0,Yes,Approved
+UI/2023/1118,Female,22,Single,Technology,400,Off Campus,3.11,Employed,72000,0,193791.0,36.0,No,Rejected
+UI/2024/1119,Male,18,Single,Law,400,Off Campus,3.59,Employed,21000,0,229079.0,24.0,Yes,Rejected
+UI/2019/1120,Male,25,Single,Arts,300,Off Campus,3.29,Unemployed,18000,0,189124.0,36.0,Yes,Rejected
+UI/2020/1121,Male,26,Single,Agriculture and Forestry,500,School Hostel,2.28,Employed,49000,0,250394.0,36.0,Yes,Rejected
+UI/2021/1122,,22,Single,Education,300,School Hostel,3.72,Employed,93000,0,182821.0,12.0,Yes,Approved
+UI/2022/1123,Female,21,Single,Clinical Sciences,100,School Hostel,3.79,Unemployed,37000,0,103549.0,24.0,Yes,Rejected
+UI/2023/1124,Male,18,Single,Education,200,Off Campus,2.94,Self-Employed,48000,17000,132292.0,36.0,Yes,Rejected
+UI/2024/1125,Male,24,Married,Science,300,Off Campus,3.87,Self-Employed,184000,0,170819.0,36.0,Yes,Approved
+UI/2019/1126,Male,28,Single,Science,200,Off Campus,3.11,Employed,50000,0,129532.0,36.0,Yes,Rejected
+UI/2020/1127,Female,23,Single,Social Sciences,200,Off Campus,3.0,Self-Employed,25000,0,135482.0,48.0,No,Approved
+UI/2021/1128,Female,24,Single,Science,200,Off Campus,3.55,,19000,0,119722.0,36.0,No,Rejected
+UI/2022/1129,Male,23,Single,Social Sciences,100,Off Campus,3.18,Self-Employed,177000,0,98890.0,24.0,No,Approved
+UI/2023/1130,Female,19,Single,Veterinary Medicine,100,Off Campus,4.81,Employed,66000,0,77251.0,24.0,Yes,Approved
+UI/2024/1131,Male,25,Single,Clinical Sciences,100,School Hostel,2.69,Employed,49000,0,100634.0,48.0,No,Rejected
+UI/2019/1132,Female,19,Single,Social Sciences,300,Off Campus,3.96,,50000,9500,178256.0,60.0,Yes,Rejected
+UI/2020/1133,Male,21,Single,Social Sciences,200,School Hostel,4.09,Self-Employed,42000,0,124086.0,48.0,No,Approved
+UI/2021/1134,Female,22,Single,Veterinary Medicine,200,Off Campus,2.46,Unemployed,49000,0,152212.0,24.0,Yes,Rejected
+UI/2022/1135,Male,24,Married,Technology,500,Off Campus,2.6,Employed,66000,0,288357.0,36.0,No,Rejected
+UI/2023/1136,Male,22,Single,Veterinary Medicine,300,School Hostel,3.86,Employed,186000,0,,36.0,Yes,Approved
+UI/2024/1137,Female,22,Single,Clinical Sciences,400,Off Campus,3.29,Employed,62000,15500,,60.0,No,Rejected
+UI/2019/1138,Male,20,Single,Clinical Sciences,400,Off Campus,3.76,Employed,19000,0,238473.0,12.0,Yes,Rejected
+UI/2020/1139,Male,19,Single,Pharmacy,500,School Hostel,4.18,Employed,111000,0,262761.0,48.0,No,Rejected
+UI/2021/1140,Male,22,Single,Education,100,Off Campus,3.35,Employed,57000,0,98717.0,36.0,Yes,Rejected
+UI/2022/1141,Male,20,Single,Clinical Sciences,200,Off Campus,2.96,Employed,61000,0,130633.0,48.0,No,Rejected
+UI/2023/1142,Male,18,Single,Technology,500,Off Campus,2.05,Employed,165000,0,259399.0,36.0,Yes,Approved
+UI/2024/1143,Male,19,Single,Pharmacy,200,Off Campus,3.66,Self-Employed,66000,0,,12.0,Yes,Approved
+UI/2019/1144,Male,20,Single,Technology,500,Off Campus,3.04,Employed,132000,0,267603.0,36.0,No,Rejected
+UI/2020/1145,Male,17,Single,Pharmacy,100,School Hostel,3.72,Self-Employed,76000,6500,,36.0,Yes,Approved
+UI/2021/1146,Male,18,Single,Arts,100,Off Campus,3.68,Employed,46000,18500,89521.0,24.0,No,Approved
+UI/2022/1147,Female,18,Single,Technology,500,Off Campus,2.79,Employed,92000,0,253298.0,24.0,Yes,Approved
+UI/2023/1148,Male,22,Married,Clinical Sciences,200,School Hostel,4.5,Unemployed,17000,6500,148226.0,24.0,Yes,Rejected
+UI/2024/1149,Male,22,Single,Veterinary Medicine,300,School Hostel,4.15,Employed,137000,0,207280.0,36.0,Yes,Approved
+UI/2019/1150,Male,26,Single,Science,500,School Hostel,4.02,Employed,118000,21000,243746.0,36.0,Yes,Approved
+UI/2020/1151,Female,18,Single,Law,100,School Hostel,2.9,Employed,72000,0,99461.0,12.0,Yes,Approved
+UI/2021/1152,Male,20,Single,Agriculture and Forestry,500,School Hostel,3.33,Employed,97000,0,253757.0,24.0,No,Approved
+UI/2022/1153,Male,24,Single,Education,200,Off Campus,3.25,Employed,95000,0,128282.0,36.0,Yes,Approved
+UI/2023/1154,Female,21,Single,Agriculture and Forestry,200,Off Campus,3.32,Self-Employed,65000,18000,145412.0,36.0,No,Rejected
+UI/2024/1155,Male,21,Single,Veterinary Medicine,100,Off Campus,2.93,Self-Employed,125000,0,107692.0,48.0,Yes,Approved
+UI/2019/1156,Female,25,Single,Social Sciences,300,Off Campus,3.79,Employed,61000,0,158395.0,36.0,Yes,Approved
+UI/2020/1157,Female,21,Single,Social Sciences,200,Off Campus,3.68,Self-Employed,107000,0,124076.0,24.0,Yes,Approved
+UI/2021/1158,Male,19,Single,Science,500,Off Campus,3.75,Employed,41000,11500,277262.0,48.0,Yes,Rejected
+UI/2022/1159,Female,18,Single,Arts,100,Off Campus,3.27,Self-Employed,80000,8000,104207.0,24.0,Yes,Approved
+UI/2023/1160,Male,22,Single,Science,100,School Hostel,4.26,Employed,87000,0,107248.0,12.0,,Rejected
+UI/2024/1161,,22,Single,Pharmacy,100,Off Campus,3.65,Employed,45000,0,92029.0,24.0,No,Rejected
+UI/2019/1162,Male,18,Single,Law,300,School Hostel,2.04,Self-Employed,61000,0,173829.0,36.0,Yes,Rejected
+UI/2020/1163,Female,19,Single,Arts,400,School Hostel,3.2,Employed,52000,0,226309.0,24.0,Yes,Rejected
+UI/2021/1164,Female,23,Single,Clinical Sciences,300,Off Campus,3.52,Self-Employed,114000,0,172093.0,60.0,No,Rejected
+UI/2022/1165,Male,23,Single,Technology,300,Off Campus,4.08,Unemployed,16000,0,162984.0,24.0,No,Rejected
+UI/2023/1166,Female,20,Single,Clinical Sciences,300,Off Campus,3.38,,89000,0,179490.0,24.0,No,Rejected
+UI/2024/1167,Male,23,Single,Agriculture and Forestry,100,School Hostel,3.41,Self-Employed,176000,11000,112944.0,36.0,No,Rejected
+UI/2019/1168,Male,23,Single,Social Sciences,200,Off Campus,3.19,Employed,85000,7000,124165.0,24.0,Yes,Approved
+UI/2020/1169,Female,17,Single,Veterinary Medicine,500,Off Campus,3.92,Unemployed,15000,14500,275200.0,24.0,Yes,Rejected
+UI/2021/1170,Female,21,Single,Technology,200,Off Campus,3.3,Employed,75000,11000,149918.0,36.0,Yes,Approved
+UI/2022/1171,Male,22,Single,Agriculture and Forestry,500,Off Campus,3.22,Employed,124000,10000,246659.0,24.0,Yes,Approved
+UI/2023/1172,Female,20,Single,Agriculture and Forestry,300,School Hostel,3.14,Employed,60000,0,179596.0,36.0,Yes,Rejected
+UI/2024/1173,Male,17,Single,Science,100,School Hostel,3.86,Employed,128000,0,98865.0,24.0,Yes,Approved
+UI/2019/1174,Male,21,Single,Arts,100,Off Campus,3.26,Employed,98000,0,108904.0,36.0,No,Approved
+UI/2020/1175,Male,23,Single,Technology,100,Off Campus,2.63,Unemployed,29000,0,109390.0,24.0,Yes,Rejected
+UI/2021/1176,Female,25,Single,Education,200,Off Campus,3.89,Self-Employed,66000,20000,120131.0,36.0,Yes,Approved
+UI/2022/1177,Male,16,Single,Law,200,School Hostel,3.16,Self-Employed,58000,0,119459.0,60.0,Yes,Approved
+UI/2023/1178,Female,28,Single,Education,200,School Hostel,3.75,Self-Employed,66000,0,154781.0,48.0,Yes,Approved
+UI/2024/1179,Female,19,Married,Arts,300,Off Campus,3.76,Employed,72000,0,181169.0,60.0,Yes,Approved
+UI/2019/1180,Male,24,Single,Pharmacy,300,School Hostel,4.21,Unemployed,31000,8500,185686.0,36.0,Yes,Rejected
+UI/2020/1181,Female,24,Single,Law,100,Off Campus,4.12,Self-Employed,96000,0,104449.0,24.0,Yes,Approved
+UI/2021/1182,Male,24,Single,Pharmacy,200,School Hostel,3.23,Employed,59000,0,162239.0,24.0,No,Rejected
+UI/2022/1183,Female,22,Single,Clinical Sciences,500,Off Campus,3.46,Employed,72000,0,241563.0,48.0,Yes,Rejected
+UI/2023/1184,,19,Single,Pharmacy,100,Off Campus,2.84,Employed,86000,31500,115670.0,24.0,Yes,Approved
+UI/2024/1185,Female,23,Single,Arts,400,School Hostel,4.47,Employed,29000,0,207331.0,,Yes,Rejected
+UI/2019/1186,Female,20,Single,Arts,300,Off Campus,,Employed,46000,0,190295.0,24.0,No,Rejected
+UI/2020/1187,Male,16,Single,Arts,400,Off Campus,4.32,Employed,45000,4500,239399.0,48.0,Yes,Rejected
+UI/2021/1188,Female,28,Married,Science,200,Off Campus,3.37,Unemployed,21000,0,118958.0,24.0,No,Rejected
+UI/2022/1189,Male,23,Single,Science,200,Off Campus,2.42,Employed,60000,0,145471.0,24.0,No,Rejected
+UI/2023/1190,Female,26,Single,Science,300,Off Campus,4.39,Self-Employed,66000,9000,175372.0,24.0,Yes,Rejected
+UI/2024/1191,Female,19,Single,Clinical Sciences,500,School Hostel,3.6,Employed,43000,0,255177.0,,Yes,Rejected
+UI/2019/1192,Female,25,Single,Arts,200,Off Campus,3.62,Self-Employed,111000,4000,140122.0,60.0,No,Approved
+UI/2020/1193,Male,25,Single,Clinical Sciences,100,School Hostel,3.58,,89000,0,83880.0,36.0,Yes,Approved
+UI/2021/1194,Male,25,Single,Science,100,School Hostel,3.9,Employed,28000,8500,85188.0,48.0,No,Rejected
+UI/2022/1195,Female,21,Single,Agriculture and Forestry,500,Off Campus,3.84,Unemployed,24000,4500,269248.0,36.0,Yes,Rejected
+UI/2023/1196,,19,Single,Arts,200,School Hostel,2.68,Employed,38000,0,152030.0,12.0,Yes,Rejected
+UI/2024/1197,Male,21,Single,Social Sciences,100,Off Campus,4.15,Employed,179000,0,91065.0,36.0,Yes,Rejected
+UI/2019/1198,Female,16,Single,Veterinary Medicine,300,Off Campus,3.26,Self-Employed,60000,0,157897.0,36.0,Yes,Rejected
+UI/2020/1199,Male,18,Single,Clinical Sciences,400,Off Campus,3.29,Employed,56000,0,253847.0,36.0,Yes,Rejected
+UI/2021/1200,Male,22,Single,Law,300,Off Campus,4.5,Self-Employed,80000,8500,195796.0,24.0,No,Approved
+UI/2022/1201,Female,19,Single,Agriculture and Forestry,100,Off Campus,4.06,Employed,63000,44000,104823.0,24.0,Yes,Approved
+UI/2023/1202,Male,21,Single,Agriculture and Forestry,200,School Hostel,3.36,Employed,68000,0,124213.0,24.0,No,Rejected
+UI/2024/1203,Male,21,Single,Science,200,School Hostel,2.53,Self-Employed,180000,6000,130851.0,12.0,Yes,Rejected
+UI/2019/1204,Male,26,Single,Clinical Sciences,100,Off Campus,3.64,Self-Employed,87000,0,103086.0,24.0,Yes,Approved
+UI/2020/1205,Male,24,Single,Arts,500,School Hostel,3.85,Unemployed,37000,8500,245253.0,24.0,No,Rejected
+UI/2021/1206,Male,21,Single,Law,200,School Hostel,3.51,Employed,130000,0,163246.0,36.0,No,Rejected
+UI/2022/1207,Male,24,Single,Veterinary Medicine,100,Off Campus,2.86,Self-Employed,45000,4500,101516.0,48.0,Yes,Rejected
+UI/2023/1208,Female,20,Single,Law,500,School Hostel,,Employed,178000,8500,,36.0,No,Rejected
+UI/2024/1209,Female,21,Single,Arts,500,Off Campus,2.86,Self-Employed,112000,17000,244241.0,36.0,,Approved
+UI/2019/1210,Female,24,Single,Social Sciences,400,Off Campus,3.67,Employed,119000,0,206044.0,36.0,,Approved
+UI/2020/1211,Female,19,Single,Social Sciences,200,School Hostel,4.0,Self-Employed,48000,0,127810.0,36.0,Yes,Approved
+UI/2021/1212,Male,21,Single,Arts,100,School Hostel,4.11,Self-Employed,120000,0,103581.0,12.0,No,Approved
+UI/2022/1213,Male,18,Single,Agriculture and Forestry,300,Off Campus,3.15,Employed,88000,67500,175558.0,36.0,Yes,Rejected
+UI/2023/1214,Male,22,Single,Education,300,School Hostel,3.68,Employed,52000,10500,175211.0,36.0,Yes,Approved
+UI/2024/1215,Male,25,Single,Social Sciences,400,Off Campus,3.85,,246000,0,224155.0,36.0,Yes,Approved
+UI/2019/1216,Female,20,Single,Pharmacy,500,Off Campus,3.27,,32000,0,262823.0,48.0,Yes,Rejected
+UI/2020/1217,Male,22,Single,Education,500,School Hostel,3.47,Employed,62000,0,281442.0,48.0,Yes,Rejected
+UI/2021/1218,Male,19,Single,Arts,200,Off Campus,4.72,Self-Employed,86000,0,136577.0,48.0,No,Approved
+UI/2022/1219,Female,19,Single,Education,300,Off Campus,3.66,Unemployed,39000,10500,164505.0,12.0,No,Rejected
+UI/2023/1220,Male,19,Single,Pharmacy,100,School Hostel,4.04,Employed,131000,0,99316.0,60.0,Yes,Approved
+UI/2024/1221,Male,25,Single,Science,300,School Hostel,3.31,Unemployed,32000,6500,201131.0,36.0,Yes,Rejected
+UI/2019/1222,Female,27,Single,Clinical Sciences,100,Off Campus,3.57,Employed,137000,10000,91305.0,36.0,,Rejected
+UI/2020/1223,Female,23,Single,Agriculture and Forestry,100,Off Campus,2.61,Employed,158000,0,100212.0,36.0,Yes,Approved
+UI/2021/1224,Male,20,Single,Clinical Sciences,100,School Hostel,3.54,Employed,36000,19000,94205.0,24.0,Yes,Rejected
+UI/2022/1225,Female,23,Single,Arts,200,Off Campus,4.21,Self-Employed,59000,0,145475.0,24.0,Yes,Approved
+UI/2023/1226,Male,21,Single,Agriculture and Forestry,200,Off Campus,4.7,Employed,42000,0,143288.0,48.0,No,Rejected
+UI/2024/1227,Male,23,Single,Agriculture and Forestry,400,Off Campus,4.21,Self-Employed,81000,0,207515.0,36.0,Yes,Approved
+UI/2019/1228,Female,22,Single,Law,100,Off Campus,3.93,Self-Employed,170000,0,96123.0,60.0,No,Rejected
+UI/2020/1229,Male,22,Single,Law,100,School Hostel,3.58,Self-Employed,110000,0,113399.0,24.0,Yes,Approved
+UI/2021/1230,Male,23,Single,Social Sciences,300,School Hostel,3.22,Employed,40000,9500,195668.0,36.0,Yes,Approved
+UI/2022/1231,Female,20,Single,Education,300,School Hostel,3.46,Self-Employed,65000,33500,193120.0,36.0,Yes,Approved
+UI/2023/1232,Female,21,Married,Pharmacy,400,Off Campus,3.89,Self-Employed,135000,0,232233.0,12.0,Yes,Approved
+UI/2024/1233,,18,Single,Pharmacy,400,Off Campus,3.12,Employed,52000,21000,214582.0,36.0,,Rejected
+UI/2019/1234,Female,20,Single,Science,300,School Hostel,4.06,Employed,67000,8500,174128.0,24.0,No,Rejected
+UI/2020/1235,Male,18,Single,Arts,300,School Hostel,3.01,Self-Employed,91000,0,193214.0,36.0,Yes,Approved
+UI/2021/1236,Female,21,Single,Agriculture and Forestry,400,Off Campus,,Unemployed,15000,0,202201.0,24.0,Yes,Rejected
+UI/2022/1237,Male,19,Single,Science,100,School Hostel,2.99,,108000,0,98647.0,36.0,Yes,Approved
+UI/2023/1238,Male,22,Single,Clinical Sciences,100,Off Campus,2.63,Employed,85000,4500,72108.0,36.0,Yes,Approved
+UI/2024/1239,Male,23,Single,Veterinary Medicine,400,Off Campus,2.8,Self-Employed,105000,0,213905.0,48.0,Yes,Approved
+UI/2019/1240,Female,18,Single,Social Sciences,100,School Hostel,4.17,Employed,41000,0,89087.0,48.0,No,Approved
+UI/2020/1241,Male,20,Single,Science,300,School Hostel,3.44,Unemployed,15000,0,161730.0,60.0,No,Rejected
+UI/2021/1242,Female,19,Single,Technology,200,School Hostel,3.67,Self-Employed,55000,0,148049.0,60.0,Yes,Approved
+UI/2022/1243,Female,23,Single,Agriculture and Forestry,200,School Hostel,4.19,Employed,81000,24500,128658.0,36.0,Yes,Approved
+UI/2023/1244,Female,25,,Arts,400,Off Campus,4.24,Self-Employed,80000,0,214088.0,24.0,Yes,Approved
+UI/2024/1245,Male,23,Single,Social Sciences,300,School Hostel,3.27,Self-Employed,83000,0,175706.0,36.0,Yes,Rejected
+UI/2019/1246,Male,21,Single,Science,200,Off Campus,4.28,Self-Employed,206000,2500,128652.0,12.0,Yes,Approved
+UI/2020/1247,Female,25,Single,Agriculture and Forestry,200,School Hostel,3.76,Unemployed,48000,0,160473.0,36.0,No,Rejected
+UI/2021/1248,Female,18,Single,Law,400,Off Campus,3.55,Self-Employed,52000,0,212226.0,24.0,Yes,Approved
+UI/2022/1249,Male,25,Single,Social Sciences,300,Off Campus,3.79,,16000,0,182410.0,36.0,Yes,Rejected
+UI/2023/1250,Male,20,Single,Social Sciences,200,School Hostel,2.77,Employed,180000,0,120257.0,48.0,Yes,Approved
+UI/2024/1251,Male,16,Single,Clinical Sciences,400,Off Campus,,Employed,59000,0,212534.0,12.0,,Rejected
+UI/2019/1252,Male,28,Single,Science,400,Off Campus,3.49,Self-Employed,164000,0,214742.0,48.0,Yes,Approved
+UI/2020/1253,Female,25,Married,Science,500,Off Campus,3.89,Employed,169000,0,254987.0,12.0,Yes,Approved
+UI/2021/1254,Male,19,Single,Social Sciences,300,Off Campus,3.35,Self-Employed,57000,21500,,36.0,No,Rejected
+UI/2022/1255,Male,22,Single,Technology,500,School Hostel,3.48,Self-Employed,66000,11500,261624.0,24.0,No,Rejected
+UI/2023/1256,Male,21,Single,Arts,300,School Hostel,4.08,Self-Employed,81000,0,202480.0,12.0,Yes,Approved
+UI/2024/1257,Male,22,Single,Education,400,Off Campus,4.33,Self-Employed,48000,0,217559.0,36.0,,Rejected
+UI/2019/1258,Male,18,Single,Clinical Sciences,400,Off Campus,3.97,Self-Employed,45000,0,217463.0,24.0,Yes,Rejected
+UI/2020/1259,Female,20,Single,Social Sciences,100,School Hostel,4.25,Unemployed,19000,30500,93764.0,12.0,Yes,Approved
+UI/2021/1260,Male,23,Single,Arts,300,School Hostel,3.33,Self-Employed,123000,0,216880.0,48.0,No,Rejected
+UI/2022/1261,Male,22,Single,Education,300,School Hostel,3.38,,60000,0,203285.0,24.0,Yes,Rejected
+UI/2023/1262,Female,24,Single,Science,100,Off Campus,3.73,Employed,63000,0,107723.0,60.0,No,Rejected
+UI/2024/1263,Male,22,Single,Science,400,School Hostel,3.38,Employed,54000,0,229894.0,36.0,No,Rejected
+UI/2019/1264,Male,27,Single,Science,400,Off Campus,3.27,Self-Employed,36000,0,209061.0,24.0,,Rejected
+UI/2020/1265,Female,20,Single,Arts,500,Off Campus,4.46,Employed,159000,37500,257269.0,12.0,Yes,Approved
+UI/2021/1266,Female,22,Single,Pharmacy,200,Off Campus,3.44,Self-Employed,21000,4000,142623.0,48.0,Yes,Rejected
+UI/2022/1267,Female,17,Single,Science,200,Off Campus,3.02,Employed,49000,52500,141283.0,24.0,Yes,Approved
+UI/2023/1268,Male,19,Single,Social Sciences,500,Off Campus,3.82,Self-Employed,105000,0,246912.0,48.0,Yes,Approved
+UI/2024/1269,Male,25,Single,Law,200,Off Campus,4.56,Employed,33000,0,128044.0,36.0,No,Rejected
+UI/2019/1270,Male,19,Single,Agriculture and Forestry,400,School Hostel,3.59,Self-Employed,107000,0,227116.0,36.0,No,Rejected
+UI/2020/1271,Male,23,Single,Science,200,Off Campus,4.23,Unemployed,47000,0,144127.0,12.0,Yes,Rejected
+UI/2021/1272,Male,21,Single,Technology,200,School Hostel,3.31,Self-Employed,48000,0,108503.0,36.0,No,Rejected
+UI/2022/1273,Male,19,Single,Pharmacy,200,Off Campus,3.28,Employed,79000,18000,140887.0,12.0,Yes,Approved
+UI/2023/1274,Female,21,Single,Social Sciences,100,School Hostel,3.17,Employed,38000,20500,118244.0,48.0,No,Rejected
+UI/2024/1275,Male,20,Single,Education,200,Off Campus,3.47,Self-Employed,102000,0,130034.0,36.0,Yes,Approved
+UI/2019/1276,Male,20,Single,Arts,100,School Hostel,4.56,Employed,74000,7500,103067.0,24.0,No,Approved
+UI/2020/1277,Female,23,Single,Education,400,Off Campus,2.91,Employed,79000,20000,198126.0,36.0,Yes,Approved
+UI/2021/1278,Male,23,Single,Education,500,Off Campus,4.45,Unemployed,50000,0,271785.0,24.0,Yes,Rejected
+UI/2022/1279,Male,20,Single,Law,100,Off Campus,3.0,Self-Employed,100000,0,83130.0,36.0,Yes,Approved
+UI/2023/1280,Male,19,Single,Agriculture and Forestry,100,Off Campus,3.42,Employed,147000,7500,81117.0,,Yes,Approved
+UI/2024/1281,Female,22,Single,Social Sciences,100,Off Campus,4.01,Self-Employed,109000,7500,94872.0,24.0,,Approved
+UI/2019/1282,Female,21,Single,Arts,500,Off Campus,3.9,Unemployed,15000,0,294409.0,24.0,No,Rejected
+UI/2020/1283,Female,24,Single,Clinical Sciences,100,School Hostel,3.71,Employed,81000,0,90549.0,60.0,No,Rejected
+UI/2021/1284,Female,28,Single,Education,400,School Hostel,2.64,Self-Employed,101000,8000,200967.0,48.0,Yes,Rejected
+UI/2022/1285,Male,23,Single,Science,200,Off Campus,3.75,Self-Employed,35000,0,146331.0,36.0,Yes,Rejected
+UI/2023/1286,Male,21,Single,Science,100,Off Campus,2.99,Unemployed,49000,0,102910.0,,No,Rejected
+UI/2024/1287,Female,21,Single,Clinical Sciences,200,Off Campus,4.96,Employed,73000,0,163931.0,24.0,No,Rejected
+UI/2019/1288,Female,20,Single,Education,400,Off Campus,3.43,Unemployed,29000,16000,200880.0,24.0,Yes,Rejected
+UI/2020/1289,Female,19,Single,Pharmacy,100,Off Campus,3.65,Unemployed,15000,0,76094.0,48.0,Yes,Rejected
+UI/2021/1290,Female,19,Single,Arts,400,Off Campus,,Employed,73000,0,214903.0,12.0,Yes,Rejected
+UI/2022/1291,Male,21,Single,Science,300,Off Campus,3.29,Self-Employed,91000,15500,185110.0,48.0,Yes,Approved
+UI/2023/1292,Male,21,Single,Education,100,School Hostel,2.84,Employed,59000,0,104796.0,60.0,No,Rejected
+UI/2024/1293,Female,23,Single,Agriculture and Forestry,100,Off Campus,4.09,,80000,38500,115499.0,12.0,Yes,Approved
+UI/2019/1294,Male,21,Single,Education,300,School Hostel,3.41,Self-Employed,24000,69000,157572.0,48.0,Yes,Approved
+UI/2020/1295,Male,21,Single,Veterinary Medicine,300,Off Campus,3.86,Self-Employed,163000,12500,167410.0,48.0,Yes,Approved
+UI/2021/1296,Female,19,Single,Veterinary Medicine,200,Off Campus,3.17,Self-Employed,42000,0,137609.0,12.0,Yes,Approved
+UI/2022/1297,Female,25,Single,Law,200,Off Campus,3.27,Employed,21000,0,151894.0,36.0,Yes,Approved
+UI/2023/1298,Female,23,Single,Education,200,Off Campus,,Employed,41000,10000,146546.0,24.0,Yes,Approved
+UI/2024/1299,Male,26,Single,Social Sciences,500,Off Campus,3.02,Self-Employed,49000,8000,253346.0,24.0,Yes,Rejected
+UI/2019/1300,Male,23,Single,Agriculture and Forestry,300,Off Campus,2.56,Employed,95000,0,164531.0,24.0,Yes,Rejected
+UI/2020/1301,Male,25,Married,Science,400,Off Campus,,Employed,42000,0,232526.0,24.0,Yes,Rejected
+UI/2021/1302,Female,21,Single,Education,300,School Hostel,2.92,Employed,82000,0,193514.0,12.0,Yes,Rejected
+UI/2022/1303,Female,23,Single,Education,300,Off Campus,3.31,Self-Employed,45000,0,219453.0,24.0,,Rejected
+UI/2023/1304,Male,28,Single,Education,300,Off Campus,4.05,Employed,236000,0,176935.0,24.0,Yes,Approved
+UI/2024/1305,Female,19,Single,Technology,400,Off Campus,3.1,Self-Employed,104000,0,243429.0,36.0,No,Rejected
+UI/2019/1306,Male,24,Single,Social Sciences,300,School Hostel,4.03,Self-Employed,225000,0,161763.0,36.0,Yes,Approved
+UI/2020/1307,Male,25,Single,Technology,400,School Hostel,3.18,Self-Employed,44000,34000,211558.0,48.0,No,Rejected
+UI/2021/1308,Male,22,Married,Arts,100,Off Campus,4.37,Self-Employed,111000,0,89596.0,36.0,Yes,Approved
+UI/2022/1309,Male,23,Single,Law,200,Off Campus,4.28,Unemployed,15000,0,132736.0,48.0,Yes,Rejected
+UI/2023/1310,Male,24,Single,Clinical Sciences,400,Off Campus,3.29,Employed,96000,0,206672.0,,Yes,Rejected
+UI/2024/1311,Male,20,Single,Social Sciences,200,School Hostel,3.43,Employed,102000,0,131563.0,24.0,Yes,Approved
+UI/2019/1312,Female,22,Single,Clinical Sciences,400,Off Campus,3.09,Self-Employed,32000,9000,218752.0,12.0,Yes,Rejected
+UI/2020/1313,Male,19,Single,Education,500,Off Campus,3.66,,41000,0,252938.0,48.0,Yes,Rejected
+UI/2021/1314,Female,20,Single,Social Sciences,300,School Hostel,4.18,Self-Employed,40000,71500,189258.0,36.0,Yes,Rejected
+UI/2022/1315,Female,20,Married,Law,100,School Hostel,2.75,Self-Employed,34000,18500,98325.0,24.0,Yes,Rejected
+UI/2023/1316,Male,21,Single,Pharmacy,400,Off Campus,4.05,Employed,47000,7000,219532.0,36.0,Yes,Rejected
+UI/2024/1317,Male,22,Married,Social Sciences,300,Off Campus,2.82,Employed,41000,24500,201217.0,60.0,Yes,Rejected
+UI/2019/1318,Female,23,Single,Science,200,Off Campus,3.08,Self-Employed,35000,3000,144187.0,36.0,No,Rejected
+UI/2020/1319,Male,18,Single,Education,400,School Hostel,2.57,Self-Employed,81000,0,221830.0,24.0,,Rejected
+UI/2021/1320,Male,26,Single,Veterinary Medicine,300,Off Campus,4.71,Employed,95000,0,179275.0,48.0,Yes,Approved
+UI/2022/1321,Male,24,Single,Science,100,School Hostel,3.58,Employed,34000,0,100477.0,24.0,No,Approved
+UI/2023/1322,Female,23,Single,Education,100,Off Campus,3.68,Employed,52000,0,107985.0,12.0,Yes,Approved
+UI/2024/1323,Female,21,Single,Law,100,Off Campus,3.18,Employed,70000,0,87770.0,12.0,No,Rejected
+UI/2019/1324,Male,21,Single,Pharmacy,300,School Hostel,4.14,Employed,62000,0,196386.0,60.0,No,Rejected
+UI/2020/1325,Male,23,Single,Arts,400,Off Campus,2.39,Employed,48000,0,242655.0,12.0,No,Rejected
+UI/2021/1326,Male,22,Single,Arts,100,Off Campus,3.56,Employed,109000,9500,116514.0,48.0,No,Rejected
+UI/2022/1327,Male,18,,Veterinary Medicine,100,Off Campus,4.76,Employed,112000,0,92333.0,12.0,Yes,Approved
+UI/2023/1328,Female,23,Single,Arts,300,School Hostel,3.34,Employed,102000,0,156151.0,36.0,Yes,Approved
+UI/2024/1329,Female,28,Single,Science,200,Off Campus,3.56,Employed,62000,0,133139.0,24.0,Yes,Approved
+UI/2019/1330,Male,17,Single,Clinical Sciences,200,Off Campus,3.92,Employed,209000,0,141820.0,24.0,Yes,Approved
+UI/2020/1331,Male,24,Single,Technology,400,Off Campus,3.1,Employed,182000,9000,231729.0,12.0,Yes,Approved
+UI/2021/1332,Male,22,Single,Education,500,School Hostel,3.56,Self-Employed,61000,0,256880.0,36.0,Yes,Approved
+UI/2022/1333,Female,21,Single,Science,500,School Hostel,4.08,Self-Employed,72000,5500,255102.0,48.0,,Rejected
+UI/2023/1334,Female,25,Single,Pharmacy,400,Off Campus,3.66,Employed,134000,0,241911.0,36.0,No,Rejected
+UI/2024/1335,Female,19,Single,Science,100,School Hostel,3.75,Employed,45000,0,89718.0,24.0,No,Rejected
+UI/2019/1336,Female,22,Single,Education,100,School Hostel,3.36,Employed,87000,0,115221.0,48.0,Yes,Approved
+UI/2020/1337,Male,25,Single,Arts,300,School Hostel,3.72,Self-Employed,79000,12000,192861.0,48.0,No,Rejected
+UI/2021/1338,Female,21,Single,Technology,500,Off Campus,3.58,Employed,47000,0,240020.0,36.0,Yes,Rejected
+UI/2022/1339,Male,21,Single,Arts,100,Off Campus,4.35,Self-Employed,67000,11000,103652.0,24.0,Yes,Approved
+UI/2023/1340,Female,22,Single,Social Sciences,300,Off Campus,3.95,Self-Employed,32000,0,171375.0,12.0,Yes,Rejected
+UI/2024/1341,Male,20,Single,Social Sciences,200,Off Campus,3.42,Self-Employed,57000,0,125625.0,12.0,No,Rejected
+UI/2019/1342,Male,25,Single,Education,200,School Hostel,2.2,Self-Employed,26000,0,112373.0,24.0,Yes,Rejected
+UI/2020/1343,Female,19,Single,Technology,200,Off Campus,3.94,Employed,245000,0,116538.0,24.0,Yes,Approved
+UI/2021/1344,Male,24,Single,Arts,200,Off Campus,3.97,Employed,160000,0,145654.0,60.0,,Approved
+UI/2022/1345,Male,19,Single,Veterinary Medicine,100,Off Campus,3.05,Employed,137000,6000,93856.0,36.0,Yes,Approved
+UI/2023/1346,Male,23,Single,Pharmacy,100,Off Campus,2.45,Self-Employed,90000,0,103576.0,24.0,No,Approved
+UI/2024/1347,Female,21,Single,Pharmacy,300,School Hostel,2.92,Self-Employed,132000,0,163944.0,36.0,Yes,Approved
+UI/2019/1348,Male,16,Single,Science,200,School Hostel,4.06,Employed,141000,20000,134852.0,24.0,No,Approved
+UI/2020/1349,Male,21,Single,Social Sciences,400,Off Campus,2.96,Employed,122000,0,215572.0,48.0,,Rejected
+UI/2021/1350,Male,19,Single,Science,300,Off Campus,3.3,Employed,116000,0,156862.0,36.0,,Approved
+UI/2022/1351,Female,20,Single,Arts,500,Off Campus,3.67,Employed,42000,4500,235135.0,36.0,No,Rejected
+UI/2023/1352,Male,25,Single,Arts,200,Off Campus,4.22,Employed,88000,11500,146033.0,24.0,Yes,Approved
+UI/2024/1353,Male,19,Single,Technology,500,Off Campus,3.54,Employed,52000,26500,261729.0,36.0,,Rejected
+UI/2019/1354,Male,19,Single,Arts,200,Off Campus,3.49,,15000,0,125854.0,36.0,Yes,Rejected
+UI/2020/1355,Female,25,Single,Science,300,Off Campus,3.25,Employed,37000,12500,178073.0,24.0,Yes,Rejected
+UI/2021/1356,Male,22,Single,Pharmacy,400,Off Campus,,Self-Employed,97000,0,229299.0,12.0,No,Rejected
+UI/2022/1357,Female,25,Single,Technology,200,Off Campus,4.14,Employed,124000,0,166473.0,36.0,Yes,Approved
+UI/2023/1358,Female,22,Married,Science,200,School Hostel,3.5,Employed,33000,30500,126519.0,48.0,Yes,Rejected
+UI/2024/1359,Male,19,Single,Agriculture and Forestry,300,School Hostel,2.78,Employed,182000,0,188626.0,36.0,Yes,Approved
+UI/2019/1360,Male,21,Single,Science,100,Off Campus,3.12,Employed,156000,0,130692.0,60.0,Yes,Approved
+UI/2020/1361,Female,24,Single,Clinical Sciences,300,Off Campus,3.87,Self-Employed,62000,0,180535.0,36.0,,Approved
+UI/2021/1362,Male,24,Single,Social Sciences,100,Off Campus,3.15,Employed,54000,0,121125.0,48.0,No,Rejected
+UI/2022/1363,Female,22,Single,Clinical Sciences,100,School Hostel,4.04,Employed,67000,0,61560.0,12.0,Yes,Approved
+UI/2023/1364,Male,22,Single,Agriculture and Forestry,300,School Hostel,3.75,,40000,0,200857.0,36.0,Yes,Rejected
+UI/2024/1365,Female,21,Single,Clinical Sciences,500,Off Campus,3.71,,62000,0,259411.0,36.0,Yes,Rejected
+UI/2019/1366,Male,20,Single,Social Sciences,500,Off Campus,3.91,Employed,38000,0,231982.0,24.0,Yes,Rejected
+UI/2020/1367,Female,26,Single,Education,200,School Hostel,3.82,Employed,84000,28000,151022.0,48.0,No,Rejected
+UI/2021/1368,Female,22,Single,Pharmacy,100,Off Campus,,Self-Employed,24000,0,114988.0,12.0,,Rejected
+UI/2022/1369,Male,19,Single,Science,300,School Hostel,3.37,Employed,75000,0,197327.0,36.0,Yes,Rejected
+UI/2023/1370,Female,20,Married,Science,200,School Hostel,4.84,Employed,132000,0,157194.0,24.0,No,Rejected
+UI/2024/1371,Female,23,Single,Arts,200,Off Campus,2.89,Employed,82000,7000,,60.0,No,Rejected
+UI/2019/1372,Male,23,Single,Veterinary Medicine,400,School Hostel,3.29,,117000,0,208566.0,48.0,,Rejected
+UI/2020/1373,Male,21,Single,Veterinary Medicine,400,Off Campus,4.14,Employed,91000,0,,24.0,Yes,Approved
+UI/2021/1374,Male,20,Single,Science,300,Off Campus,3.46,Unemployed,35000,0,179051.0,24.0,No,Rejected
+UI/2022/1375,Male,22,Single,Veterinary Medicine,300,School Hostel,3.1,Employed,75000,31000,185531.0,12.0,Yes,Rejected
+UI/2023/1376,Female,18,Single,Science,300,Off Campus,2.82,Employed,44000,6000,172486.0,24.0,No,Rejected
+UI/2024/1377,Male,18,Single,Technology,300,School Hostel,3.84,Employed,61000,0,180277.0,60.0,,Approved
+UI/2019/1378,Female,23,Single,Technology,500,School Hostel,4.11,Unemployed,22000,0,,48.0,No,Rejected
+UI/2020/1379,Female,20,Single,Pharmacy,500,School Hostel,4.32,Self-Employed,152000,0,264346.0,48.0,Yes,Approved
+UI/2021/1380,Female,22,Single,Arts,500,Off Campus,3.58,Employed,170000,0,293301.0,36.0,Yes,Approved
+UI/2022/1381,Female,24,Married,Social Sciences,400,Off Campus,4.12,Self-Employed,96000,0,251294.0,36.0,Yes,Rejected
+UI/2023/1382,Female,23,Single,Clinical Sciences,100,Off Campus,2.98,Employed,46000,25000,82676.0,36.0,Yes,Approved
+UI/2024/1383,Male,22,Single,Arts,200,School Hostel,3.64,Self-Employed,51000,15000,131212.0,48.0,,Approved
+UI/2019/1384,Female,27,Single,Science,400,School Hostel,3.18,Employed,63000,10000,200302.0,12.0,No,Rejected
+UI/2020/1385,Male,23,Single,Technology,200,Off Campus,3.65,Unemployed,50000,41500,122428.0,24.0,No,Rejected
+UI/2021/1386,Female,21,Single,Pharmacy,300,Off Campus,3.96,Employed,84000,0,187596.0,36.0,No,Rejected
+UI/2022/1387,Female,23,Single,Education,100,Off Campus,4.14,Self-Employed,74000,0,84959.0,24.0,Yes,Rejected
+UI/2023/1388,,22,Single,Law,100,School Hostel,3.01,Employed,46000,32000,84152.0,60.0,Yes,Approved
+UI/2024/1389,Male,19,Single,Education,200,Off Campus,4.25,,124000,24500,135589.0,12.0,Yes,Approved
+UI/2019/1390,Male,22,Single,Education,100,Off Campus,,Employed,81000,0,111347.0,60.0,No,Rejected
+UI/2020/1391,Male,21,Single,Law,200,Off Campus,2.99,Self-Employed,74000,0,134332.0,24.0,No,Approved
+UI/2021/1392,Male,17,Married,Agriculture and Forestry,100,School Hostel,3.46,Self-Employed,81000,0,94302.0,24.0,Yes,Approved
+UI/2022/1393,Male,21,Single,Education,400,Off Campus,2.75,Self-Employed,192000,15000,233084.0,36.0,Yes,Approved
+UI/2023/1394,Male,21,Single,Social Sciences,200,School Hostel,3.55,Employed,64000,0,146510.0,36.0,,Rejected
+UI/2024/1395,Female,20,Single,Science,200,School Hostel,3.71,Employed,176000,0,146279.0,60.0,Yes,Approved
+UI/2019/1396,Female,18,Single,Education,400,Off Campus,3.44,Unemployed,46000,0,233523.0,36.0,Yes,Rejected
+UI/2020/1397,Male,21,Married,Science,300,Off Campus,3.84,Employed,72000,0,164655.0,48.0,No,Rejected
+UI/2021/1398,Male,21,Single,Pharmacy,100,School Hostel,3.38,Employed,113000,0,102734.0,48.0,Yes,Approved
+UI/2022/1399,Male,22,Single,Clinical Sciences,100,School Hostel,3.55,Employed,65000,0,90224.0,60.0,Yes,Approved
+UI/2023/1400,Male,19,Single,Social Sciences,300,School Hostel,2.76,Self-Employed,48000,0,194686.0,24.0,Yes,Rejected
+UI/2024/1401,Male,23,Married,Veterinary Medicine,100,Off Campus,3.57,Unemployed,20000,19500,111580.0,36.0,Yes,Rejected
+UI/2019/1402,Female,19,Single,Science,200,Off Campus,3.08,Employed,42000,0,124174.0,12.0,Yes,Rejected
+UI/2020/1403,Male,21,Single,Clinical Sciences,300,School Hostel,3.3,Employed,92000,0,199274.0,24.0,No,Rejected
+UI/2021/1404,Male,25,Single,Arts,300,Off Campus,,Employed,70000,11500,162343.0,24.0,Yes,Approved
+UI/2022/1405,Male,20,Single,Veterinary Medicine,200,Off Campus,3.66,Employed,95000,6500,156805.0,24.0,,Approved
+UI/2023/1406,Female,20,Single,Clinical Sciences,300,School Hostel,2.64,Employed,109000,32500,182584.0,48.0,Yes,Approved
+UI/2024/1407,Male,24,Single,Law,300,Off Campus,2.69,Employed,15000,17000,166713.0,24.0,Yes,Rejected
+UI/2019/1408,Male,21,Single,Social Sciences,100,School Hostel,3.38,Employed,82000,10500,83072.0,24.0,Yes,Approved
+UI/2020/1409,Male,21,Single,Law,200,School Hostel,3.81,Unemployed,15000,0,135072.0,24.0,Yes,Rejected
+UI/2021/1410,Female,22,Single,Education,200,Off Campus,3.75,Employed,76000,0,139206.0,12.0,Yes,Approved
+UI/2022/1411,Male,24,Single,Agriculture and Forestry,400,School Hostel,4.04,Self-Employed,47000,0,209083.0,48.0,Yes,Approved
+UI/2023/1412,Female,16,Single,Veterinary Medicine,100,School Hostel,4.27,Employed,74000,0,,36.0,Yes,Approved
+UI/2024/1413,Male,20,Single,Technology,200,Off Campus,3.82,Employed,147000,0,118903.0,36.0,,Approved
+UI/2019/1414,Female,19,Single,Technology,100,School Hostel,3.54,Self-Employed,30000,0,99452.0,36.0,Yes,Rejected
+UI/2020/1415,Male,19,Single,Agriculture and Forestry,400,School Hostel,2.98,Employed,77000,6000,219570.0,60.0,No,Rejected
+UI/2021/1416,Male,19,Married,Law,400,Off Campus,3.03,Employed,67000,0,191949.0,24.0,Yes,Rejected
+UI/2022/1417,Female,20,Single,Social Sciences,100,School Hostel,3.29,Self-Employed,27000,0,104123.0,36.0,Yes,Approved
+UI/2023/1418,Female,22,Single,Agriculture and Forestry,400,School Hostel,3.7,Employed,99000,0,200918.0,36.0,Yes,Approved
+UI/2024/1419,Male,19,Single,Science,400,Off Campus,3.67,Employed,71000,0,182701.0,60.0,No,Rejected
+UI/2019/1420,Male,22,Single,Clinical Sciences,100,Off Campus,3.55,Unemployed,18000,0,90497.0,48.0,Yes,Rejected
+UI/2020/1421,Female,22,Single,Education,500,Off Campus,3.47,Employed,47000,0,256179.0,48.0,No,Rejected
+UI/2021/1422,Male,20,Single,Arts,200,School Hostel,3.9,Self-Employed,445000,12000,152903.0,24.0,Yes,Approved
+UI/2022/1423,Male,22,,Education,400,Off Campus,3.66,Employed,56000,0,212375.0,60.0,Yes,Rejected
+UI/2023/1424,Female,25,Single,Arts,100,Off Campus,3.71,Self-Employed,28000,0,121306.0,48.0,Yes,Rejected
+UI/2024/1425,Male,22,Single,Veterinary Medicine,200,School Hostel,3.72,Employed,42000,0,160794.0,,Yes,Rejected
+UI/2019/1426,Male,20,Single,Technology,300,Off Campus,3.25,Employed,57000,0,195691.0,48.0,Yes,Rejected
+UI/2020/1427,Male,21,Single,Technology,500,School Hostel,2.98,Unemployed,19000,0,279097.0,60.0,Yes,Rejected
+UI/2021/1428,Male,19,Single,Education,400,Off Campus,3.82,Unemployed,22000,0,224727.0,48.0,Yes,Rejected
+UI/2022/1429,Male,22,Single,Clinical Sciences,300,School Hostel,3.78,Employed,39000,0,171325.0,48.0,No,Rejected
+UI/2023/1430,Female,24,Single,Education,100,School Hostel,3.43,Self-Employed,102000,8000,109127.0,48.0,Yes,Approved
+UI/2024/1431,Male,20,Single,Arts,200,School Hostel,3.32,Employed,53000,31000,153849.0,48.0,No,Rejected
+UI/2019/1432,Male,21,Single,Clinical Sciences,200,Off Campus,4.8,Employed,33000,24500,143079.0,48.0,Yes,Approved
+UI/2020/1433,Female,24,Single,Clinical Sciences,500,School Hostel,3.13,Employed,44000,0,255929.0,12.0,No,Rejected
+UI/2021/1434,Female,20,Single,Veterinary Medicine,400,Off Campus,3.43,Self-Employed,62000,0,196378.0,24.0,Yes,Rejected
+UI/2022/1435,Female,22,Single,Arts,200,School Hostel,3.7,Self-Employed,121000,0,149540.0,24.0,No,Rejected
+UI/2023/1436,Male,19,Single,Technology,200,School Hostel,,Self-Employed,99000,50000,144748.0,36.0,,Approved
+UI/2024/1437,Female,20,Single,Agriculture and Forestry,400,School Hostel,3.61,Self-Employed,63000,7000,200307.0,12.0,Yes,Rejected
+UI/2019/1438,Female,20,Single,Clinical Sciences,100,Off Campus,4.54,Employed,70000,22000,101020.0,36.0,Yes,Approved
+UI/2020/1439,Male,27,Married,Arts,400,School Hostel,4.06,Employed,78000,0,230230.0,60.0,Yes,Approved
+UI/2021/1440,Female,21,Single,Clinical Sciences,300,Off Campus,3.9,Employed,213000,0,177934.0,,Yes,Approved
+UI/2022/1441,Male,20,Single,Science,200,School Hostel,3.88,Employed,49000,32000,151135.0,12.0,No,Rejected
+UI/2023/1442,Male,20,Single,Science,400,Off Campus,3.61,Unemployed,30000,25500,230704.0,36.0,No,Rejected
+UI/2024/1443,,21,Single,Pharmacy,200,Off Campus,4.08,Employed,104000,0,117708.0,24.0,Yes,Approved
+UI/2019/1444,Female,23,Married,Science,100,School Hostel,3.46,Self-Employed,45000,0,95092.0,48.0,Yes,Approved
+UI/2020/1445,Female,22,Single,Technology,200,Off Campus,3.32,Unemployed,26000,0,146715.0,12.0,Yes,Rejected
+UI/2021/1446,Female,26,Married,Education,100,School Hostel,3.61,Self-Employed,83000,5500,113106.0,24.0,Yes,Approved
+UI/2022/1447,Male,22,Single,Education,100,School Hostel,4.05,Self-Employed,59000,26500,120408.0,24.0,Yes,Rejected
+UI/2023/1448,Female,25,Single,Clinical Sciences,200,School Hostel,3.73,Self-Employed,104000,0,111168.0,12.0,Yes,Approved
+UI/2024/1449,Female,22,Single,Law,400,Off Campus,3.92,Employed,122000,0,218566.0,36.0,No,Rejected
+UI/2019/1450,Male,23,Single,Technology,100,Off Campus,2.44,Self-Employed,142000,18000,110137.0,24.0,No,Rejected
+UI/2020/1451,Male,18,Single,Agriculture and Forestry,300,School Hostel,4.21,Employed,63000,0,197663.0,36.0,Yes,Approved
+UI/2021/1452,Female,21,Single,Law,500,School Hostel,4.84,Self-Employed,84000,0,284521.0,60.0,Yes,Approved
+UI/2022/1453,Male,21,Single,Agriculture and Forestry,400,Off Campus,4.28,Employed,253000,0,205710.0,36.0,No,Rejected
+UI/2023/1454,Female,21,Single,Agriculture and Forestry,500,School Hostel,3.38,Unemployed,15000,0,254029.0,36.0,No,Rejected
+UI/2024/1455,Female,17,Single,Technology,300,School Hostel,3.08,Employed,78000,0,163945.0,60.0,Yes,Approved
+UI/2019/1456,Male,24,Single,Clinical Sciences,300,School Hostel,3.7,Self-Employed,124000,0,191657.0,24.0,Yes,Rejected
+UI/2020/1457,Female,21,Single,Social Sciences,300,School Hostel,3.01,Unemployed,25000,5500,159942.0,48.0,Yes,Rejected
+UI/2021/1458,Male,20,Single,Education,300,School Hostel,3.95,Employed,100000,0,197075.0,36.0,Yes,Approved
+UI/2022/1459,Male,21,Single,Social Sciences,200,Off Campus,3.26,Self-Employed,84000,0,153412.0,12.0,Yes,Rejected
+UI/2023/1460,Male,21,Single,Technology,200,School Hostel,4.08,Self-Employed,115000,20000,146762.0,24.0,No,Rejected
+UI/2024/1461,Female,22,Single,Education,100,School Hostel,4.3,Self-Employed,154000,0,67388.0,48.0,Yes,Approved
+UI/2019/1462,Male,19,Single,Technology,100,Off Campus,2.43,Employed,62000,0,89510.0,12.0,Yes,Approved
+UI/2020/1463,Female,19,Single,Social Sciences,200,School Hostel,,Employed,77000,8500,150638.0,48.0,Yes,Approved
+UI/2021/1464,Male,22,Single,Law,400,School Hostel,3.17,Employed,67000,0,198554.0,48.0,No,Rejected
+UI/2022/1465,Female,22,Single,Social Sciences,300,Off Campus,2.77,Employed,56000,0,175991.0,48.0,Yes,Rejected
+UI/2023/1466,Female,21,Single,Law,100,School Hostel,3.21,Self-Employed,75000,16000,97996.0,48.0,Yes,Approved
+UI/2024/1467,Male,20,Single,Education,400,Off Campus,3.43,Self-Employed,41000,0,232726.0,36.0,No,Approved
+UI/2019/1468,Female,20,Single,Technology,100,School Hostel,4.12,Self-Employed,115000,8500,103728.0,48.0,Yes,Approved
+UI/2020/1469,Female,21,Single,Education,500,School Hostel,2.71,Employed,177000,0,263608.0,36.0,No,Rejected
+UI/2021/1470,Male,24,Single,Arts,300,Off Campus,4.13,Employed,177000,0,,36.0,Yes,Rejected
+UI/2022/1471,Male,19,Single,Social Sciences,300,School Hostel,4.66,Self-Employed,154000,0,179619.0,36.0,Yes,Approved
+UI/2023/1472,Male,25,Single,Pharmacy,200,Off Campus,3.88,Unemployed,15000,0,137549.0,36.0,Yes,Rejected
+UI/2024/1473,Female,23,Single,Clinical Sciences,400,School Hostel,3.85,Employed,160000,0,230326.0,24.0,Yes,Approved
+UI/2019/1474,Male,20,Single,Clinical Sciences,100,Off Campus,3.54,,47000,0,96880.0,24.0,Yes,Approved
+UI/2020/1475,Male,23,Single,Agriculture and Forestry,100,Off Campus,2.9,,67000,13000,114851.0,36.0,Yes,Approved
+UI/2021/1476,Male,18,Single,Agriculture and Forestry,300,Off Campus,3.84,Unemployed,64000,24000,154374.0,24.0,Yes,Rejected
+UI/2022/1477,Female,18,Married,Clinical Sciences,200,School Hostel,3.76,Employed,39000,0,157323.0,48.0,No,Rejected
+UI/2023/1478,Female,19,Married,Technology,200,Off Campus,3.95,Unemployed,37000,0,137012.0,48.0,,Rejected
+UI/2024/1479,Female,21,Single,Science,300,Off Campus,4.96,Self-Employed,89000,0,196252.0,48.0,No,Approved
+UI/2019/1480,Male,21,Single,Social Sciences,100,School Hostel,3.95,Employed,64000,0,100771.0,48.0,No,Approved
+UI/2020/1481,Female,20,Single,Social Sciences,500,School Hostel,3.78,Self-Employed,47000,0,272196.0,24.0,No,Rejected
+UI/2021/1482,Male,22,Single,Technology,300,Off Campus,4.41,Employed,88000,0,201669.0,24.0,No,Rejected
+UI/2022/1483,Male,17,Single,Veterinary Medicine,100,School Hostel,2.81,Self-Employed,59000,0,91317.0,48.0,Yes,Approved
+UI/2023/1484,Female,23,Single,Social Sciences,400,School Hostel,2.92,Employed,123000,0,220713.0,24.0,No,Rejected
+UI/2024/1485,Male,18,Single,Technology,300,School Hostel,3.34,Unemployed,45000,0,177007.0,36.0,Yes,Rejected
+UI/2019/1486,Female,20,Single,Social Sciences,400,Off Campus,3.19,Employed,33000,0,222612.0,36.0,Yes,Rejected
+UI/2020/1487,Female,21,Single,Clinical Sciences,400,Off Campus,3.93,Self-Employed,58000,0,195524.0,36.0,No,Rejected
+UI/2021/1488,Male,19,Single,Veterinary Medicine,500,Off Campus,3.38,Self-Employed,64000,0,256986.0,36.0,Yes,Rejected
+UI/2022/1489,Female,18,Single,Pharmacy,100,Off Campus,4.51,,36000,0,95829.0,36.0,,Rejected
+UI/2023/1490,Male,19,Single,Social Sciences,500,Off Campus,4.39,Unemployed,15000,0,247869.0,24.0,No,Rejected
+UI/2024/1491,Female,21,Single,Science,300,Off Campus,3.97,,73000,19500,176636.0,12.0,Yes,Approved
+UI/2019/1492,Male,23,Single,Pharmacy,100,Off Campus,3.34,Unemployed,21000,0,76658.0,60.0,Yes,Approved
+UI/2020/1493,Male,23,Single,Technology,200,Off Campus,3.89,Unemployed,15000,0,160239.0,48.0,No,Rejected
+UI/2021/1494,Female,19,Single,Agriculture and Forestry,200,Off Campus,4.0,Self-Employed,57000,0,146142.0,36.0,Yes,Approved
+UI/2022/1495,Male,20,Single,Arts,500,Off Campus,2.96,Self-Employed,101000,0,287438.0,36.0,Yes,Approved
+UI/2023/1496,Male,19,Single,Pharmacy,300,Off Campus,3.74,Self-Employed,39000,0,166562.0,12.0,Yes,Rejected
+UI/2024/1497,Male,23,Single,Social Sciences,100,School Hostel,3.94,Unemployed,15000,0,,36.0,Yes,Approved
+UI/2019/1498,Male,17,Single,Technology,400,School Hostel,3.67,Employed,166000,0,223693.0,36.0,Yes,Approved
+UI/2020/1499,Female,24,Single,Science,300,School Hostel,4.41,Self-Employed,157000,0,154789.0,36.0,Yes,Approved
+UI/2021/1500,Female,20,Single,Technology,400,Off Campus,4.22,Self-Employed,31000,22500,222856.0,24.0,No,Rejected
+UI/2022/1501,Female,20,Single,Law,100,Off Campus,3.1,Self-Employed,36000,10500,89086.0,12.0,Yes,Approved
+UI/2023/1502,Male,22,Single,Law,400,Off Campus,3.62,Employed,86000,0,214546.0,60.0,Yes,Approved
+UI/2024/1503,Female,24,Single,Technology,500,School Hostel,3.09,Self-Employed,40000,0,263264.0,48.0,Yes,Rejected
+UI/2019/1504,Female,22,Single,Education,100,School Hostel,3.87,Employed,60000,0,100176.0,24.0,,Approved
+UI/2020/1505,Male,24,Single,Technology,300,Off Campus,3.07,Employed,54000,0,207089.0,48.0,Yes,Rejected
+UI/2021/1506,Female,22,Single,Social Sciences,100,School Hostel,4.06,Employed,95000,0,108859.0,48.0,No,Approved
+UI/2022/1507,Male,24,Single,Clinical Sciences,300,School Hostel,3.76,Self-Employed,19000,0,160346.0,24.0,Yes,Rejected
+UI/2023/1508,Female,24,Single,Science,100,School Hostel,4.08,Employed,21000,0,114014.0,48.0,Yes,Rejected
+UI/2024/1509,Female,21,Married,Social Sciences,500,Off Campus,3.47,Unemployed,15000,0,239638.0,24.0,Yes,Rejected
+UI/2019/1510,Female,25,Single,Education,100,Off Campus,2.75,Employed,121000,12500,100765.0,24.0,No,Rejected
+UI/2020/1511,Female,22,Single,Education,300,School Hostel,4.52,Employed,64000,0,160997.0,24.0,Yes,Approved
+UI/2021/1512,Female,22,Single,Arts,300,School Hostel,3.46,Self-Employed,30000,0,,36.0,Yes,Rejected
+UI/2022/1513,Male,19,Single,Education,200,School Hostel,4.31,Employed,91000,0,158949.0,36.0,Yes,Approved
+UI/2023/1514,Female,21,Married,Law,100,Off Campus,3.79,Employed,103000,8000,91218.0,36.0,Yes,Approved
+UI/2024/1515,Male,23,Single,Technology,500,Off Campus,3.92,Self-Employed,66000,19000,249923.0,12.0,Yes,Approved
+UI/2019/1516,Male,18,Single,Arts,100,School Hostel,4.56,Employed,58000,0,91136.0,48.0,Yes,Approved
+UI/2020/1517,Male,23,Single,Agriculture and Forestry,200,Off Campus,3.74,Unemployed,29000,21000,134833.0,24.0,Yes,Approved
+UI/2021/1518,Female,22,Single,Science,200,School Hostel,4.32,Employed,135000,0,160824.0,24.0,Yes,Approved
+UI/2022/1519,Female,22,Single,Agriculture and Forestry,300,School Hostel,2.73,,83000,16000,161982.0,36.0,No,Rejected
+UI/2023/1520,Female,16,Single,Social Sciences,200,Off Campus,4.03,Employed,93000,0,121126.0,24.0,Yes,Approved
+UI/2024/1521,Male,21,Single,Agriculture and Forestry,100,Off Campus,3.42,Unemployed,23000,0,108036.0,48.0,Yes,Rejected
+UI/2019/1522,Male,23,Single,Science,300,Off Campus,3.48,Employed,56000,0,155803.0,36.0,Yes,Rejected
+UI/2020/1523,Male,20,Single,Technology,400,School Hostel,3.55,Unemployed,15000,12000,214016.0,48.0,Yes,Rejected
+UI/2021/1524,Female,22,Single,Clinical Sciences,400,School Hostel,3.74,Employed,80000,8500,236202.0,24.0,Yes,Rejected
+UI/2022/1525,Female,16,Single,Agriculture and Forestry,300,Off Campus,4.46,Employed,59000,0,179446.0,36.0,Yes,Approved
+UI/2023/1526,Male,23,Single,Science,200,Off Campus,2.53,Self-Employed,67000,0,132310.0,24.0,Yes,Approved
+UI/2024/1527,Female,20,Single,Veterinary Medicine,100,Off Campus,3.57,Self-Employed,127000,0,88892.0,24.0,Yes,Approved
+UI/2019/1528,Female,24,Single,Social Sciences,300,Off Campus,3.16,Self-Employed,100000,0,165825.0,36.0,Yes,Approved
+UI/2020/1529,Male,17,Single,Social Sciences,300,School Hostel,4.19,Self-Employed,123000,0,170646.0,48.0,No,Approved
+UI/2021/1530,Male,23,Single,Science,200,Off Campus,3.32,,29000,12000,141412.0,36.0,Yes,Rejected
+UI/2022/1531,Male,21,Married,Arts,500,School Hostel,3.8,Employed,94000,0,277818.0,48.0,Yes,Approved
+UI/2023/1532,Female,23,Single,Technology,100,Off Campus,3.33,Self-Employed,55000,0,113694.0,24.0,Yes,Rejected
+UI/2024/1533,Female,19,Single,Education,400,Off Campus,3.92,Self-Employed,49000,3500,210990.0,24.0,Yes,Rejected
+UI/2019/1534,Male,20,Single,Education,400,Off Campus,4.11,Self-Employed,48000,12500,208523.0,12.0,Yes,Rejected
+UI/2020/1535,Male,27,Married,Science,500,Off Campus,3.33,Employed,135000,0,269657.0,48.0,Yes,Approved
+UI/2021/1536,Male,20,Single,Science,500,School Hostel,3.58,Unemployed,37000,38000,232441.0,12.0,Yes,Approved
+UI/2022/1537,Female,20,Single,Social Sciences,100,School Hostel,2.77,Employed,47000,0,92831.0,36.0,No,Rejected
+UI/2023/1538,Female,21,Single,Education,500,Off Campus,3.72,,15000,0,254510.0,36.0,Yes,Rejected
+UI/2024/1539,Female,19,Single,Technology,200,Off Campus,4.02,Employed,70000,0,122856.0,24.0,No,Rejected
+UI/2019/1540,Male,24,Single,Pharmacy,300,School Hostel,3.24,Self-Employed,59000,0,164558.0,60.0,Yes,Rejected
+UI/2020/1541,Male,25,Single,Agriculture and Forestry,500,School Hostel,4.17,Unemployed,58000,28500,264446.0,60.0,Yes,Rejected
+UI/2021/1542,Female,20,Single,Agriculture and Forestry,300,Off Campus,2.41,Employed,31000,0,154769.0,24.0,,Rejected
+UI/2022/1543,Female,18,Single,Education,300,Off Campus,2.53,Self-Employed,28000,0,165718.0,24.0,No,Rejected
+UI/2023/1544,Female,24,Single,Education,100,Off Campus,2.79,Employed,60000,8000,89647.0,,No,Rejected
+UI/2024/1545,Male,24,Single,Social Sciences,300,School Hostel,3.28,Employed,70000,0,180446.0,36.0,Yes,Rejected
+UI/2019/1546,Female,23,Single,Science,200,Off Campus,3.56,Employed,75000,20000,118909.0,36.0,Yes,Approved
+UI/2020/1547,Male,24,Single,Technology,200,Off Campus,3.51,Self-Employed,115000,0,155305.0,36.0,Yes,Approved
+UI/2021/1548,Female,20,Single,Technology,200,Off Campus,3.51,Employed,217000,14500,134632.0,60.0,Yes,Approved
+UI/2022/1549,Male,21,Single,Science,500,Off Campus,3.95,Unemployed,19000,0,255330.0,48.0,Yes,Rejected
+UI/2023/1550,Male,18,Single,Technology,300,Off Campus,3.29,,52000,98000,173802.0,24.0,,Approved
+UI/2024/1551,Female,18,Single,Agriculture and Forestry,400,Off Campus,2.86,Employed,26000,0,,48.0,No,Rejected
+UI/2019/1552,Male,24,Single,Science,100,Off Campus,2.87,Employed,79000,0,84621.0,36.0,No,Rejected
+UI/2020/1553,Female,20,Married,Science,200,School Hostel,4.71,Employed,111000,0,156130.0,60.0,No,Approved
+UI/2021/1554,Female,27,Single,Science,400,Off Campus,2.26,Employed,60000,13000,222127.0,36.0,Yes,Rejected
+UI/2022/1555,Male,22,,Social Sciences,100,Off Campus,3.45,Employed,133000,10000,97480.0,12.0,No,Rejected
+UI/2023/1556,,20,Single,Veterinary Medicine,500,Off Campus,4.35,Employed,71000,0,273829.0,48.0,Yes,Approved
+UI/2024/1557,Female,23,Single,Arts,200,School Hostel,3.82,Employed,160000,0,128551.0,24.0,Yes,Approved
+UI/2019/1558,Male,26,Single,Science,200,School Hostel,3.09,Self-Employed,91000,28000,148390.0,48.0,Yes,Approved
+UI/2020/1559,Female,23,Single,Science,300,Off Campus,3.55,Employed,39000,0,,36.0,Yes,Rejected
+UI/2021/1560,Female,19,Single,Technology,200,Off Campus,4.03,Self-Employed,54000,0,125883.0,48.0,Yes,Approved
+UI/2022/1561,Male,22,Single,Arts,300,School Hostel,4.21,Employed,30000,0,190278.0,48.0,No,Rejected
+UI/2023/1562,Male,25,Single,Technology,200,Off Campus,3.06,Employed,27000,16000,116908.0,48.0,No,Rejected
+UI/2024/1563,Female,20,Single,Science,400,School Hostel,3.97,Employed,80000,21500,228646.0,48.0,Yes,Approved
+UI/2019/1564,Male,20,Single,Science,200,Off Campus,3.69,,112000,0,125920.0,36.0,Yes,Approved
+UI/2020/1565,Male,24,Single,Education,100,School Hostel,4.16,Unemployed,68000,0,105040.0,24.0,No,Rejected
+UI/2021/1566,Male,22,Single,Science,200,School Hostel,4.31,Employed,67000,6000,159401.0,36.0,Yes,Approved
+UI/2022/1567,Male,19,Single,Agriculture and Forestry,100,Off Campus,3.36,Employed,61000,25500,107367.0,24.0,,Approved
+UI/2023/1568,Male,21,Single,Technology,200,School Hostel,2.75,Employed,38000,49000,130055.0,24.0,Yes,Approved
+UI/2024/1569,Female,20,Single,Technology,300,School Hostel,3.77,Self-Employed,131000,0,178522.0,36.0,Yes,Approved
+UI/2019/1570,Female,22,Single,Law,400,School Hostel,4.53,Self-Employed,94000,0,,36.0,Yes,Approved
+UI/2020/1571,Female,22,Single,Science,100,School Hostel,3.93,Self-Employed,55000,0,81588.0,24.0,,Rejected
+UI/2021/1572,Male,24,Single,Pharmacy,200,School Hostel,3.68,Self-Employed,111000,0,122555.0,24.0,Yes,Rejected
+UI/2022/1573,Male,23,Single,Pharmacy,400,School Hostel,4.87,Employed,95000,0,219543.0,24.0,Yes,Approved
+UI/2023/1574,Male,18,Single,Agriculture and Forestry,200,Off Campus,2.98,Self-Employed,27000,0,146826.0,24.0,No,Rejected
+UI/2024/1575,Female,22,Single,Arts,400,School Hostel,,Employed,105000,0,192807.0,36.0,Yes,Approved
+UI/2019/1576,Male,24,Single,Agriculture and Forestry,400,Off Campus,3.24,Self-Employed,82000,0,217795.0,12.0,Yes,Rejected
+UI/2020/1577,Male,23,Single,Clinical Sciences,100,Off Campus,3.58,Employed,56000,0,106331.0,24.0,Yes,Approved
+UI/2021/1578,Female,24,Single,Education,200,Off Campus,3.6,Self-Employed,60000,0,140452.0,24.0,Yes,Rejected
+UI/2022/1579,Male,20,Single,Science,400,School Hostel,4.38,Employed,182000,0,204013.0,36.0,No,Approved
+UI/2023/1580,Male,19,Single,Veterinary Medicine,300,Off Campus,3.04,Employed,162000,3500,194092.0,24.0,Yes,Rejected
+UI/2024/1581,Female,24,Single,Pharmacy,300,School Hostel,3.26,Self-Employed,208000,0,160843.0,,Yes,Approved
+UI/2019/1582,Male,19,Single,Arts,500,School Hostel,2.67,Unemployed,15000,0,268350.0,48.0,,Rejected
+UI/2020/1583,Female,17,Single,Social Sciences,300,Off Campus,3.82,Employed,48000,0,202406.0,36.0,No,Rejected
+UI/2021/1584,Male,24,Single,Arts,300,Off Campus,3.3,Employed,114000,7000,148643.0,48.0,Yes,Rejected
+UI/2022/1585,Male,20,Single,Law,400,School Hostel,3.78,Employed,36000,0,222548.0,24.0,No,Rejected
+UI/2023/1586,Male,21,Single,Pharmacy,200,Off Campus,2.96,Self-Employed,51000,0,143367.0,24.0,Yes,Approved
+UI/2024/1587,Female,18,Single,Veterinary Medicine,100,Off Campus,3.35,Unemployed,15000,4000,102068.0,36.0,No,Rejected
+UI/2019/1588,Male,18,Single,Agriculture and Forestry,200,Off Campus,4.12,,193000,0,127398.0,12.0,Yes,Approved
+UI/2020/1589,Female,19,Single,Agriculture and Forestry,300,School Hostel,,Employed,125000,0,174110.0,60.0,No,Rejected
+UI/2021/1590,Female,21,Single,Agriculture and Forestry,500,School Hostel,3.89,Employed,89000,17500,238097.0,24.0,No,Rejected
+UI/2022/1591,Female,22,Single,Clinical Sciences,300,School Hostel,3.84,Unemployed,26000,0,180641.0,48.0,No,Rejected
+UI/2023/1592,Male,16,Single,Veterinary Medicine,200,School Hostel,,Employed,55000,3000,146604.0,36.0,Yes,Rejected
+UI/2024/1593,Male,23,Single,Clinical Sciences,500,Off Campus,2.69,Employed,56000,15000,248865.0,48.0,No,Rejected
+UI/2019/1594,Male,19,Single,Social Sciences,200,Off Campus,4.09,Self-Employed,107000,6000,125022.0,24.0,No,Approved
+UI/2020/1595,Female,19,Single,Clinical Sciences,100,School Hostel,3.64,Unemployed,16000,23000,91689.0,48.0,Yes,Rejected
+UI/2021/1596,Female,23,Single,Arts,300,Off Campus,4.09,Self-Employed,149000,0,178527.0,36.0,No,Rejected
+UI/2022/1597,Male,21,Single,Education,200,Off Campus,2.44,Employed,53000,0,139539.0,,Yes,Rejected
+UI/2023/1598,Female,18,Single,Agriculture and Forestry,100,Off Campus,2.64,Employed,43000,0,97103.0,24.0,Yes,Rejected
+UI/2024/1599,Female,26,Single,Technology,400,School Hostel,2.37,Self-Employed,155000,0,219639.0,24.0,,Approved
+UI/2019/1600,Female,20,Single,Law,400,Off Campus,3.07,Unemployed,21000,0,199314.0,48.0,Yes,Rejected
+UI/2020/1601,Female,22,Single,Education,500,School Hostel,4.12,Self-Employed,103000,0,218405.0,60.0,Yes,Approved
+UI/2021/1602,Female,22,Single,Social Sciences,100,Off Campus,3.86,Employed,55000,19500,107696.0,36.0,Yes,Approved
+UI/2022/1603,Female,25,Single,Arts,500,Off Campus,3.53,Employed,20000,0,279544.0,48.0,Yes,Rejected
+UI/2023/1604,Male,20,Single,Science,400,School Hostel,3.62,Self-Employed,103000,0,197734.0,36.0,No,Rejected
+UI/2024/1605,Male,24,Single,Science,200,Off Campus,3.97,Self-Employed,36000,0,128789.0,36.0,Yes,Rejected
+UI/2019/1606,Female,20,Single,Social Sciences,300,Off Campus,3.38,Self-Employed,138000,17500,183007.0,36.0,,Approved
+UI/2020/1607,Male,24,Single,Technology,300,Off Campus,3.77,Unemployed,15000,7500,192618.0,36.0,Yes,Rejected
+UI/2021/1608,Male,20,Single,Pharmacy,200,Off Campus,3.63,Unemployed,15000,0,148123.0,24.0,Yes,Rejected
+UI/2022/1609,Female,21,Single,Social Sciences,100,School Hostel,2.35,Self-Employed,90000,0,117386.0,48.0,Yes,Rejected
+UI/2023/1610,Female,26,Single,Pharmacy,400,Off Campus,3.34,Self-Employed,96000,10000,217775.0,36.0,Yes,Approved
+UI/2024/1611,Male,22,Single,Agriculture and Forestry,100,Off Campus,4.3,Employed,74000,0,104660.0,36.0,Yes,Approved
+UI/2019/1612,Female,22,Single,Law,300,School Hostel,3.33,Employed,36000,30500,184618.0,24.0,Yes,Approved
+UI/2020/1613,Male,27,Single,Technology,200,Off Campus,3.47,Employed,113000,0,132205.0,60.0,Yes,Rejected
